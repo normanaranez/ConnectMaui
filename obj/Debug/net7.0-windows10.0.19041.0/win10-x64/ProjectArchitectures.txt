@@ -1,0 +1,1 @@
+C:\Development\dotnet\MAUI\ConnectMaui\ConnectMaui.csproj;x64

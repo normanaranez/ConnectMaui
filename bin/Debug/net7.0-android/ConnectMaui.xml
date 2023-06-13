@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ConnectMaui</name>
+    </assembly>
+    <members>
+        <member name="T:ConnectMaui.GetAppUserQueryDocument">
+            <summary>
+            Represents the operation service of the GetAppUser GraphQL operation
+            <code>
+            query GetAppUser {
+              appUser {
+                __typename
+                name
+                userName
+                role
+              }
+            }
+            </code>
+            </summary>
+        </member>
+        <member name="T:ConnectMaui.GetAppUserQuery">
+            <summary>
+            Represents the operation service of the GetAppUser GraphQL operation
+            <code>
+            query GetAppUser {
+              appUser {
+                __typename
+                name
+                userName
+                role
+              }
+            }
+            </code>
+            </summary>
+        </member>
+        <member name="T:ConnectMaui.IGetAppUserQuery">
+            <summary>
+            Represents the operation service of the GetAppUser GraphQL operation
+            <code>
+            query GetAppUser {
+              appUser {
+                __typename
+                name
+                userName
+                role
+              }
+            }
+            </code>
+            </summary>
+        </member>
+        <member name="T:ConnectMaui.ConnectClient">
+            <summary>
+            Represents the ConnectClient GraphQL client
+            </summary>
+        </member>
+        <member name="T:ConnectMaui.IConnectClient">
+            <summary>
+            Represents the ConnectClient GraphQL client
+            </summary>
+        </member>
+    </members>
+</doc>
